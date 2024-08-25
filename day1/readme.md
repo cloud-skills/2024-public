@@ -7,3 +7,5 @@
 - 추가 과제 DNS를 이용한 라우팅에서 VPC 내부는 과제에서 생성하는 3개의 VPC를 의미합니다.
 - 제출하는 NS 레코드 정보는 알아서 판단합니다.
 - NS 작업 완료 목록은 해당 페이지를 참고하세요. https://github.com/cloud-skills/2024-public/blob/main/day1/ns_finished.md
+- index.html 출력 형식은 상관 없고, curl 입력시 문제에 보이는 문구만 제대로 보이면 됩니다.
+- EKS용 bastion은 따로 생성하지 않고, 기존에 생성된 bastion에서 채점을 진행합니다.
