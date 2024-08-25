@@ -6,3 +6,4 @@
 - 기존에 있는 AccessKey와 유저를 모두 삭제하면 안되고, 필요한 경우 키는 새로 발급하여 사용할 수 있습니다.
 - 추가 과제 DNS를 이용한 라우팅에서 VPC 내부는 과제에서 생성하는 3개의 VPC를 의미합니다.
 - 제출하는 NS 레코드 정보는 알아서 판단합니다.
+- NS 작업 완료 목록은 해당 페이지를 참고하세요. https://github.com/cloud-skills/2024-public/blob/main/day1/ns_finished.md
