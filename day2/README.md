@@ -5,4 +5,3 @@
 - 충남 거버넌스 과제의 경우 ap-southeast-1을 사용하는 단독과제 임으로 문제에 명시된 대로 기본 VPC를 사용합니다.
 - 충남 거버넌스 과제에서 생성하는 IAM user Admin이 기본 과제의 IAM 유저 admin과 겹침으로 과제의 유저는 myadmin `(소문자)`로 변경하여 구성 합니다. 기타 다른 과제에서도 admin IAM 유저와 겹친다면 모두 myadmin으로 변경합니다.
 - Client VPN 문제에서 CIDR에 태그를 추가하는 케이스는 없습니다. CIDR은 그림을 참고하고 VPC에는 Name 태그를 추가 하라는 의미입니다.
-- 
